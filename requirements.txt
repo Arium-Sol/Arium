@@ -1,0 +1,7 @@
+# requirements.txt
+
+tweepy
+solana
+solders
+spl-token
+c
