@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Example Game 1",
+    "program_id": "Gh9Ej3q9Ep5wozK5716uwpbPYeCBatJ5gmdK5P59mY6w",
+    "description": "A description of Example Game 1.",
+    "token_symbol": "EG1",
+    "website": "https://example.com/game1"
+  },
+  {
+    "name": "Example Game 2",
+    "program_id": "H2oN2jDtDDWp7GvdXb91trczj8gB1Gja98jGHRDwmMX6",
+    "description": "A description of Example Game 2.",
+    "token_symbol": "EG2",
+    "website": "https://example.com/game2"
+  }
+]
