@@ -1,12 +1,17 @@
 # Arium
 AI Powered Game Launcher on Solana
-# Arium: AI-Powered Game Launcher on Solana
 
-## Description
+**Arium** is an AI-powered launcher and infrastructure layer for Web3 gaming on Solana. It unifies game discovery, content publishing, analytics, and social interaction into a single, intelligent platform for players, developers, and investors.
 
-Arium is a platform that uses AI to analyze and rate web3 games, providing users with data-driven insights to help them discover high-quality gaming experiences on the Solana blockchain.
+### 🧠For what?
 
-## Setup Instructions
+Arium is designed to solve the major pain points in Web3 gaming:
+- Fragmented and outdated information
+- Lack of trust in game quality and economic models
+- Weak player-developer interaction
+- Game discovery and evaluation
+
+### 📦Setup Instructions
 
 1.  Clone the repository:
 
@@ -33,7 +38,7 @@ Arium is a platform that uses AI to analyze and rate web3 games, providing users
 
     *   Create a `.env` file or set environment variables for your Twitter API keys and Solana private key.
 
-## Usage Instructions
+### 📄Usage Instructions
 
 1.  Run the AI agent:
 
@@ -41,11 +46,46 @@ Arium is a platform that uses AI to analyze and rate web3 games, providing users
     python ai_agent/ai_agent.py
     ```
 
+### 🚀AI Agent Features
 
-## Contribution Guidelines
+- Personalized Web3 game recommendations
+- Tokenomics analysis and ecosystem scoring
+- Game security scanning and alerting
+- AI-powered social responses and discovery tools
 
-We expect stress tests from you
+### ⚙️Core Modules
 
-## License
+- **AI Agent**
+- **Web3 Game Launcher**
+- **Rating Engine**
+- **Community Tools**
+- **Multi-Chain Future**
 
-MIT License
+### 📅Development Roadmap
+
+**Phase 1**: Twitter AI Agent
+**Phase 2**: Web Platform
+**Phase 3**: Mobile Support
+**Phase 4**: Full Launcher
+
+### 🛠️Tech Stack
+
+- Solana / Anchor
+- TypeScript / React / Tailwind
+- Supabase / PostgreSQL
+- OpenAI / Custom ML scoring models
+- GitHub Actions for CI/CD
+
+### 🤝Contribute
+
+We welcome contributions from Solana devs, AI engineers, and community builders. Feel free to open issues or submit PRs to get involved.
+
+### 📜License
+
+MIT License – see [`LICENSE`](LICENSE) for details.
+
+### 🔗Follow us
+
+Twitter: https://x.com/AriumGL
+
+Website: Coming soon →
